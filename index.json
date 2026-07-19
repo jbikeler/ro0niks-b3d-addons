@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "snappie",
+      "name": "Snappie",
+      "tagline": "Snappie",
+      "version": "3.3.0",
+      "type": "add-on",
+      "maintainer": "ro0nik",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./snappie_3.3.0.zip",
+      "archive_size": 6712,
+      "archive_hash": "sha256:647132c7e27cd5304d88bce8e3065462eeb1ef49ff9662cb3f7fff8c81c6813c"
+    }
+  ]
+}
