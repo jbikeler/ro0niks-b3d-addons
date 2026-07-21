@@ -23,6 +23,25 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "gameexports",
+      "name": "GameExports",
+      "tagline": "GameExports",
+      "version": "2.0.0",
+      "type": "add-on",
+      "maintainer": "ro0nik",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./gameexports_2.0.0.zip",
+      "archive_size": 15008,
+      "archive_hash": "sha256:7d37dbf7f1335aa6b49702f0a431c78b9df770b703a41230efc114640e19bfe2"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "snappie",
       "name": "Snappie",
       "tagline": "Snappie",
