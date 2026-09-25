@@ -7,7 +7,7 @@
       "id": "compendium",
       "name": "Compendium",
       "tagline": "Compendium",
-      "version": "3.22.0",
+      "version": "3.22.1",
       "type": "add-on",
       "maintainer": "Ben Ikeler",
       "license": [
@@ -17,9 +17,9 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./compendium_3.22.0.zip",
-      "archive_size": 144600,
-      "archive_hash": "sha256:0dc70948b08b4a5c6be318200d8f6dc1c242bf4d926838f18762e03325b5c94b"
+      "archive_url": "./compendium_3.22.1.zip",
+      "archive_size": 144517,
+      "archive_hash": "sha256:a04a55787d4333b53235c8cf59b2e3e2f78a6fba7f943d155ab2bea330b3350c"
     },
     {
       "schema_version": "1.0.0",
