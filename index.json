@@ -7,9 +7,9 @@
       "id": "compendium",
       "name": "Compendium",
       "tagline": "Compendium",
-      "version": "3.22.1",
+      "version": "3.22.2",
       "type": "add-on",
-      "maintainer": "Ben Ikeler",
+      "maintainer": "ro0nik",
       "license": [
         "SPDX:GPL-2.0-or-later"
       ],
@@ -17,16 +17,16 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./compendium_3.22.1.zip",
-      "archive_size": 144517,
-      "archive_hash": "sha256:a04a55787d4333b53235c8cf59b2e3e2f78a6fba7f943d155ab2bea330b3350c"
+      "archive_url": "./compendium_3.22.2.zip",
+      "archive_size": 144632,
+      "archive_hash": "sha256:98bb9d4ccf34f7d0f4dda39d70938d62a3e96b3a51cd1ba3e065f5e298ec32be"
     },
     {
       "schema_version": "1.0.0",
       "id": "gameexports",
       "name": "GameExports",
       "tagline": "GameExports",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "type": "add-on",
       "maintainer": "ro0nik",
       "license": [
@@ -36,16 +36,16 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./gameexports_2.0.0.zip",
-      "archive_size": 15011,
-      "archive_hash": "sha256:7fb9d700dd18dea7d1a6ef734390ee561e82055fe6950ebd32c8147f35ca4b64"
+      "archive_url": "./gameexports_2.0.1.zip",
+      "archive_size": 14896,
+      "archive_hash": "sha256:ed6d882f55eb77c792553514570286c1167ed1b81ee746ee79b3adc4b35df6da"
     },
     {
       "schema_version": "1.0.0",
       "id": "snappie",
       "name": "Snappie",
       "tagline": "Snappie",
-      "version": "3.3.0",
+      "version": "3.4.0",
       "type": "add-on",
       "maintainer": "ro0nik",
       "license": [
@@ -55,9 +55,9 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./snappie_3.3.0.zip",
-      "archive_size": 6712,
-      "archive_hash": "sha256:647132c7e27cd5304d88bce8e3065462eeb1ef49ff9662cb3f7fff8c81c6813c"
+      "archive_url": "./snappie_3.4.0.zip",
+      "archive_size": 6948,
+      "archive_hash": "sha256:ef4b9291df21cf5f8d582f02199c780fc9f0963294fc45143589f121421f8212"
     }
   ]
 }
